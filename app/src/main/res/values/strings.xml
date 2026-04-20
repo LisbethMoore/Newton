@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Newton</string>
+
+    <string name="leyesnewton">Leyes de Newton</string>
+    <string name="subtitulouno">Explora y simula las tres leyes</string>
+    <string name="subtitulodos">fundamentales del movimiento.</string>
+    <string name="correo">CORREO</string>
+    <string name="correosub">INGRESA TU CORREO</string>
+    <string name="contraseña">CONTRASEÑA</string>d
+    <string name="contraseñasub">INGRESA TU CONTRASEÑA</string>d
+    <string name="inicio">Iniciar</string>
+
+
+    <string name="bienvenido">Bienvenido</string>
+    <string name="subtitulomenu">Selecciona una ley de Newton para comenzar</string>
+    <string name="primera">Primera Ley - Ley de la Inercia</string>
+    <string name="segunda">Segunda Ley - Fuerza y Aceleración</string>
+    <string name="tercera">Tercera Ley – Acción y Reacción</string>
+
+
+    <string name="infoprimera">Un objeto en reposo permanece en reposo y un objeto en movimiento continúa en movimiento a velocidad constante, a menos que actúe una fuerza externa</string>
+    <string name="btnsimulacion">Iniciar Simulación</string>
+
+    <string name="infosegunda">La aceleración de un objeto es directamente proporcional a la fuerza neta que actúa sobre él e inversamente proporcional a su masa.</string>
+
+    <string name="infotercera">Para cada acción hay una reacción igual en magnitud y opuesta en dirección. Cuando dos objetos interactúan, las fuerzas son iguales pero en direcciones opuestas.</string>
+    <string name="masauno">Masa Objeto 1 (Kg)</string>
+    <string name="masados">Masa Objeto 2 (Kg)</string>
+    <string name="fuerzatres">Fuerza de Interacción (N)</string>
+
+    <string-array name="planos">
+        <item>Plano horizontal</item>
+        <item>Plano inclinado</item>
+        <item>Plano con fricción</item>
+    </string-array>
+
+
+
+    //DATOS
+    <string name="datosdelsistema">Datos del sistema</string>
+    <string name="masa">Masa (kg)</string>
+    <string name="tiempo">Tiempo (s)</string>
+    <string name="superficie">Tipo de superficie</string>
+    <string name="fuerza">Fuerza aplicada (N)</string>
+    <string name="estado">Estado inicial</string>
+    <string name="velocidad">Velocidad (m/s)</string>
+
+
+    <string name="ejemp">Ejemplos para probar</string>
+    <string name="btnanalizar">Analizar comportamiento</string>
+
+
+
+    //Primera Ley
+    <string name="primera_text">Primera Ley de Newton</string>
+
+
+
+    // segunda ley
+
+    <string name="titulosegundaley">Segunda Ley de Newton</string>
+    <string name="leydossubtitulo">La aceleración es proporcional a la fuerza neta e inversamente proporcional a la masa. F = m · a</string>
+
+
+
+    <string-array name="lista_superficies">
+        <item>Hielo</item>
+        <item>Madera pulida</item>
+        <item>Concreto seco</item>
+        <item>Caucho sobre asfalto</item>
+        <item>Arena</item>
+        <item>Personalizado</item>
+    </string-array>
+
+    <string-array name="lista_mu">
+        <item>0.03</item>
+        <item>0.20</item>
+        <item>0.40</item>
+        <item>0.70</item>
+        <item>0.90</item>
+        <item>0.00</item>
+    </string-array>
+</resources>

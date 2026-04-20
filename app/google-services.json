@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760297389670",
+    "project_id": "registronewton",
+    "storage_bucket": "registronewton.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760297389670:android:91e52e088f5a1b1da837a7",
+        "android_client_info": {
+          "package_name": "com.lisbeth.newton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu8LycQ-WaIyZ-6YFW4vvczK4B-yYtGfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
